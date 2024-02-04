@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Moksh Mahajan
+- <h1 align='center'>👋 Hi, I’m Moksh Mahajan</h1>h1
 - 👀 I’m interested in Full Stack Web Devlopment
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me mokshmahajan2004@gmail.com
