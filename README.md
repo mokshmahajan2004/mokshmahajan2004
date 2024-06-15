@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moksh Mahajan</h1>
 <h3 align="center">Full Stack MERN Developer | ML Enthusiast | Passionate About Emerging Technologies</h3>
  
-- 🌱 I’m currently learning <b>ML, Nodejs and Mastering DSA</b>
+- 🌱 I’m currently learning <b>ML, Nodejs and Mastering DSA.</b>
 
 - 📫 How to reach me **mokshmahajan2004@gmail.com**
 
